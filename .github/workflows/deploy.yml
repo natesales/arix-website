@@ -18,6 +18,6 @@ jobs:
         with:
           target_branch: public
           build_dir: public
-          fqdn: arix.dev
+          fqdn: public.arix.dev
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
