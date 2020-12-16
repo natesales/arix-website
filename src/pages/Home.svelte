@@ -2,7 +2,7 @@
     import Table from "../components/Table.svelte";
 </script>
 
-<main>
+<main class="px-5">
     <div class="text-center p-10">
         <h1 class="text-6xl font-extrabold">
             The Amateur Radio
@@ -19,7 +19,7 @@
         </p>
     </div>
 
-    <p class="py-3 text-center text-gray-700 text-xl">ARIX Members</p>
+    <p class="py-3 text-center text-gray-700 text-2xl">ARIX Members</p>
     <Table />
 
     <div class="max-w-screen-xl mx-auto px-4 border-t border-white">

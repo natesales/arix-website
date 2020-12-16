@@ -69,7 +69,7 @@
 
 <main class="pb-7">
     <div class="align-middle justify-center flex">
-        <div class="border border-gray-300 rounded-md">
+        <div class="overflow-x-scroll border border-gray-300 rounded-md">
             <table class="divide-y divide-gray-200 ">
                 <thead>
                     <tr>
